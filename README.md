@@ -9,4 +9,6 @@ Main Participant Name: **Vishu Dua**
 
 Team Participant Names:
 
-Parth Patel, Shivang Ayar, Keyur Desai
+- Parth Patel,  
+- Shivang Ayar,
+-    Keyur Desai
