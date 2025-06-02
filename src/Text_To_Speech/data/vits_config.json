@@ -1,0 +1,7 @@
+{
+    "server_url": "http://127.0.0.1:8989/",
+    "sample_rate": 56050,
+    "tts_model": "tts_models/en/jenny/jenny",
+    "use_gpu": false,
+    "timeout": 30
+}

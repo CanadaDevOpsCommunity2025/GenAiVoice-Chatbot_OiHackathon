@@ -1,18 +1,3 @@
-# GenAiVoice-Chatbot_OiHackathon
-
-
-Project Name: **GenAi Voice-Chatbot**
-
-Group Name: **Oi Hackathon**
-
-Main Participant Name: **Vishu Dua**
-
-Team Participant Names:
-
-- Parth Patel,  
-- Shivang Ayar,
--    Keyur Desai
-
 # Oi-Chatbot 🤖
 
 A comprehensive voice-enabled chatbot system that combines speech-to-text, text generation, and text-to-speech capabilities. The system allows for natural voice interactions with an AI assistant, featuring real-time processing, voice activity detection, and natural language understanding.
