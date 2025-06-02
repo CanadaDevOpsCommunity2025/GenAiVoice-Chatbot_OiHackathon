@@ -1,0 +1,7 @@
+requests
+TTS
+sounddevice
+numpy
+fastapi
+uvicorn
+scipy

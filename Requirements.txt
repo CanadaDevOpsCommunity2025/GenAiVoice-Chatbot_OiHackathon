@@ -1,0 +1,13 @@
+numpy
+torch
+sounddevice
+fastapi
+uvicorn
+requests
+datetime
+psutil
+resemblyzer
+scipy
+faster_whisper
+scikit-learn
+pydantic
